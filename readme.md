@@ -3,4 +3,4 @@
 
 This short quiz was created as a part of the levelZer0 assignment for Neogcamp.
 
-Play the live quiz [HERE] (https://replit.com/@Abhi78902/cliquizsiliconvalley#index.js)
+Play the live quiz [HERE](https://replit.com/@Abhi78902/cliquizsiliconvalley#index.js)
